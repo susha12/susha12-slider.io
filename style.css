@@ -49,10 +49,10 @@ html {
     background-size: 900px 100%;
   }
   .container .background-img {
-    background-image: url('/01.png');
+    background-image: url('01.png');
   }
   .container .foreground-img {
-    background-image: url('/02.png');
+    background-image: url('02.png');
     width: 50%;
   }
   .container .slider {
